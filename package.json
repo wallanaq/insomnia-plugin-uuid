@@ -1,0 +1,16 @@
+{
+  "name": "insomnia-plugin-uuid",
+  "version": "0.0.1",
+  "private": true,
+  "author": {
+    "name": "wallanaq"
+  },
+  "insomnia": {
+    "name": "uuid",
+    "description": ""
+  },
+  "main": "main.js",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
